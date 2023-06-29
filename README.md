@@ -4,8 +4,8 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Jake.<br>
-        Currently learning to walk Javascript + Node.JS.<br>
-        University coder, but have been out of the game for a few years. I code in my spare time and I like to upload my projects here!
+        Currently learning to walk in Javascript + Node.JS.<br>
+        I was a comp sci student in university, but have been out of the game for a few years. I code in my spare time and I like to upload my projects here!
     </i><br><br>
     <a href="https://www.linkedin.com/in/jacob-ray-cs/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
